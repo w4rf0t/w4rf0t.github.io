@@ -17,7 +17,7 @@ baseurl: ""
 username: w4rf0t
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: IA Student (3rd)
+typing_text: Information Assurance Student
 # email: Your E-Mail address for the email button.
 email: hkphu.edu@gmail.com
 # For every social button you want to display, set your username or userid
@@ -27,7 +27,7 @@ github_username: w4rf0t
 instagram_username: phukim_h
 medium_username: hehe
 facebook_username: w4rf0t
-facebook: w4rf0t
+# facebook: w4rf0t
 linkedin_username: hoàng-kim-phú-21a22017a
 twitter_username:
 
