@@ -7,7 +7,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Hoang Kim Phu Profile
 # description: This will be meta HTML tag content. This can be ignored.
-description: Information Assurance Student (3rd)
+description: Welcome my blog
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -27,6 +27,7 @@ github_username: w4rf0t
 instagram_username: phukim_h
 medium_username: hehe
 facebook_username: w4rf0t
+facebook: w4rf0t
 linkedin_username: hoàng-kim-phú-21a22017a
 twitter_username:
 
@@ -53,7 +54,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Educacion expreriencia
+timeline_title: Educacion experiences
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://drive.google.com/file/d/1B_idcow5PFIPGCMiRofDx4B-i32JfQzi/view?usp=sharing
