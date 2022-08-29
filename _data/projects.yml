@@ -1,0 +1,42 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+- name: Bar Playa de Porcía
+  descr: "Creación, despliegue y mantenimiento de la web del bar. Completamente integrada con Google Analitys para generar informes de ventas y predicciones. Accesible por QR de forma dinamica."
+  demo: https://barplayadeporcia.es/
+  tags:
+    - tag: Wordpress
+    - tag: Cloudfare
+    - tag: Google Analytics
+    - tag: Meta Bussines Suite
+
+- name: Mar de Dudas
+  descr: "Un pequeño juego creado para una competición universitaria. Bajo el pretexto de la competicion, elaboramos una demo con puzles. Un juego 2D de estética 8 Bits"
+  demo: https://carlosmenendezmartinez.itch.io/mar-de-dudas
+  tags:
+    - tag: Unity
+    - tag: C#
+
+- name: Resta Vid
+  descr: "Una apliacación pensada para gestionar la ocupación de un restaurante en tiempos de covid. Totalmente integrada con FireAuth, FireBase y Google Analitycs"
+  demo: https://github.com/AlejandroIglesiasCalvo/sdm_RestaVid
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: Google Services
+
+
+
+
+

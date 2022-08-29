@@ -1,0 +1,24 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Java-8
+  weight: 5
+
+- name: C++
+  weight: 3
+
+- name: Python
+  weight: 3
+
+- name: Shell
+  weight: 3
+
+- name: Spring
+  weight: 4
+
+- name: GitHub
+  weight: 5

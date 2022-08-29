@@ -1,0 +1,134 @@
+### VALUES YOU SHOULD CHANGE ###
+
+
+### Se compila con: bundle exec jekyll serve
+
+
+
+# GENERAL SITE SETTINGS
+# title: This will be displayed as the website's name in your browser tab.
+title: Alejandro Iglesias Calvo
+# description: This will be meta HTML tag content. This can be ignored.
+description: Trayectoria profesional
+# baseurl: The subpath of your site
+# > set this to "", if you renamed the repository to <user>.github.io
+baseurl: ""
+
+# LANDING PAGE
+# username: This will displayed on the landing page as your name.
+username: Alejandro Iglesias Calvo
+# typing_text: This will be typed before 'scroll down for more'.
+# > set this to your job title, e.g. Fullstack Developer
+typing_text: Ingeniero Junior
+# email: Your E-Mail address for the email button.
+email: alejandroiglesiascalvo@hotmail.com
+# For every social button you want to display, set your username or userid
+# If you do not use one of the following websites, then leave it empty
+# > twitter_username:
+github_username: AlejandroIglesiasCalvo
+instagram_username: 
+codepen_username: 
+dev_username: 
+linkedin_username: alejandro-iglesias-calvo-255a29144
+twitter_username:
+
+# ABOUT ME SECTION
+# show_aboutme_card:
+# > setting this to true, will display the About Me section
+# > setting this to false, will omit the About Me section
+show_aboutme_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title: Quien soy
+# about_me_description: This will be displayed under the title.
+about_me_description: Actualemente trabajo como freelance en el desarrollo de aplicaciones web y móviles. Mientras finalizo mis estudios. Me intereso por el desarrollo de software y la programación. Me gusta aprender nuevas tecnologías y aprender de las personas que me rodean.
+# SKILLS SECTION
+# show_skills_card:
+# > setting this to true, will display the Skills section
+# > setting this to false, will omit the Skills section
+show_skills_card: true
+# about_me_title: The will be displayed as the title in the Skills section
+skills_title: Skills
+
+# TIMELINE SECTION
+# show_timeline_card:
+# > setting this to true, will display the Timeline section
+# > setting this to false, will omit the Timeline section
+show_timeline_card: true
+# timeline_title: The will be displayed as the title in the Timeline section
+timeline_title: Educacion y expreriencia
+# cv_download_link: The link where you host your cv.
+# > e.g. you share your cv on your dropbox, then add the dropbox link here
+cv_download_link: https://drive.google.com/file/d/1B_idcow5PFIPGCMiRofDx4B-i32JfQzi/view?usp=sharing
+
+# PROJECTS SECTION
+# show_projects_card:
+# > setting this to true, will display the Projects section
+# > setting this to false, will omit the Projects section
+show_projects_card: true
+# show_projects:
+# > setting this to true, will display your listed projects in _data/projects.yml
+# > setting this to false, will omit your listed projects
+show_projects: true
+# projects_title: The will be displayed as the title of your projects
+projects_title: Proyectos en los que he participado
+# show_os_projects:
+# > setting this to true, will display your public projects on github
+# > setting this to false, will omit your public projects on github
+show_os_projects: True
+# os_projects_title: The will be displayed as the title of your open source projects
+os_projects_title: Proyectos de código abierto
+
+# CONTACT SECTION
+# show_contact_card:
+# > setting this to true, will display the Contact section
+# > setting this to false, will omit the Contact section
+show_contact_card: true
+# contact_title: The will be displayed as the title in the Contact section
+contact_title: Contact
+# contact_description: This will be displayed under the title.
+contact_description: Pueden ponerse en contacto conmigo a través de la direccion de correo alejandroiglesiascalvo@hotmail.com, o mediante el telefono 717719965 
+# GITHUB-METADATA
+# Set this to your forked repository
+# > e.g. <user>/<user>.github.io
+repository: alejandroiglesiascalvo/AlejandroIglesiasCalvo
+projects:
+  # sortby:
+  # > set this to pushed, if you want to sort your github repositories by time.
+  # > set this to stars, if you want to sort your github repositories by stars.
+  sort_by: stars
+  exclude:
+    # archived:
+    # > setting this to true, will exclude archived repositories
+    # > setting this to false, will also display archived repositories
+    archived: true
+    # forks:
+    # > setting this to true, will exclude forked repositories
+    # > setting this to false, will also display forked repositories
+    forks: true
+    # projects: A list of the repository names you want to exclude from the listing.
+    projects:
+      - AlejandroIglesiasCalvo
+    # - repo1-to-be-excluded
+    # - repo2-to-be-excluded
+
+# GOOGLE-ANALYTICS
+# Set the id, if you want to track your website with Google Analytics
+# > set this to "", if you do not want to track with Google Analytics
+google-analytics:
+  id: "UA-186439923-1"
+
+### END OF VALUES YOU SHOULD CHANGE ###
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]
+ 

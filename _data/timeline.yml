@@ -1,0 +1,69 @@
+- title: Playa de Porcía
+  title-url: https://barplayadeporcia.es/
+  date: Abril 2022 - Mayo 2022
+  subtitle: Fullstack Developer
+  tags:
+    - tag: WordPress
+    - tag: Meta Bussines Suite
+    - tag: Google Analytics
+    - tag: Power BI
+    - tag: Cloudfare
+  timeline-side: left
+
+
+- title: Babel
+  title-url: https://www.babelgroup.com/
+  date: Noviembre 2021 - Enero 2022
+  subtitle: Data Science Engineer
+  tags:
+    - tag: Power BI
+    - tag: Azure
+    - tag: SQL
+  timeline-side: right
+
+- title: SOGETI
+  title-url: https://www.sogeti.es/
+  date: Junio 2021 - Noviembre 2021
+  subtitle: Ingeniero Junior
+  tags:
+    - tag: C++
+    - tag: SSOO en tiempo real
+    - tag: VM
+    - tag: Scrum
+    - tag: Subversion
+    - tag: Linux
+  timeline-side: left
+
+- title: ASAC
+  title-url: https://www.asac.as/
+  date: Febrero 2021 - Marzo 2021
+  subtitle: Practicas de empresa
+  tags:
+    - tag: Data Center
+    - tag: Office 365
+    - tag: Xwiki
+    - tag: Hardware of a Server
+    - tag: Sistem Administrator
+  timeline-side: right
+
+- title: Universidad de Oviedo
+  title-url: https://www.uniovi.es/
+  date: Septiembre 2019 - Junio 2021
+  subtitle: Beca de colaboración de servicios informáticos
+  tags:
+    - tag: Windows 10
+    - tag: Office 365
+    - tag: Hardware
+  timeline-side: left
+
+- title: Universidad de Oviedo
+  title-url: https://www.uniovi.es/
+  date: 2015 - 2022
+  subtitle: Grado en Ingeniería informática del software
+  timeline-side: right
+
+- title: Conservatorio Superior de Música "Eduardo Martínez Torner"
+  title-url: https://consmupa.com/
+  date: 2011 - 2016
+  subtitle: Saxofón
+  timeline-side: left
