@@ -11,41 +11,32 @@
 - name: Bash
   weight: 5
 
-- name: Scrum
+- name: Vim
   weight: 5
 
-- name: Travis CI
-  weight: 2
+- name: Kali Linux
+  weight: 5
 
-- name: CodeCov
-  weight: 2
+- name: Ubuntu
+  weight: 5
 
-- name: Jenkins
+- name: Parrot OS
   weight: 3
 
-- name: Chrome DevTools
-  weight: 2
+- name: Centos
+  weight: 4
 
 - name: npm
-  weight: 5
-
-- name: gulp
   weight: 3
+
 
 - name: VS Code
   weight: 5
 
-- name: Postman
-  weight: 2
 
-- name: Eclipse
-  weight: 5
-
-- name: Android Studio
+- name: Arduino
   weight: 4
 
-- name: R Commander
-  weight: 2
 
 - name: Intellij
   weight: 5
