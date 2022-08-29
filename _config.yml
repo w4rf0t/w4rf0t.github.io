@@ -1,8 +1,6 @@
 ### VALUES YOU SHOULD CHANGE ###
 
 
-### Se compila con: bundle exec jekyll serve
-
 
 
 # GENERAL SITE SETTINGS
@@ -40,7 +38,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Who Am I
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a 3rd year student majoring in information security at FPT University. I like coding, basketball and penetration testing. This blog documenting is a record what I have got. Hope it will be useful to you. 
+about_me_description: I am a 3rd year student majoring in Information Assurance (IA) at FPT University. I like coding, basketball and penetration testing. This blog documenting is a record what I have got. Hope it will be useful to you. 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
