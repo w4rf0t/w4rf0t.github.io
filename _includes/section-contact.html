@@ -33,6 +33,21 @@
     </div>
   </a>
   {% endif %}
+  
+   <!-- facebook -->
+  {% if site.facebook_username != null %}
+  <a class="social-link" aria-label="My Facebook" target="_blank" rel="noreferrer"
+    href="https://www.facebook.com/{{site.facebook_username}}/?hl=es">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#facebook" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  <!-- codepen -->
+  
   {% if site.codepen_username != null %}
   <a class="social-link black" aria-label="My Codepen" target="_blank" rel="noreferrer"
     href="https://codepen.io/{{site.codepen_username}}">
