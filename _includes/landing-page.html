@@ -1,7 +1,7 @@
 <div id="landing">
   <div class="landing-title">
     <h1>Hello, I'm
-      <span class="highlight-title">{{site.username}}</span>,
+      <span class="highlight-title">{{site.username}}</span>
     </h1>
     <h1>
       <span id="txt-rotate" data-period="2000"
@@ -57,19 +57,19 @@
       </a>
     {% endif %}
 
-      {% if site.codepen_username != null %}
-        <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
-          href="https://codepen.io/{{site.codepen_username}}"
+      {% if site.facebook_username != null %}
+        <a class="social-link" aria-label="My Facebook" target="_blank" rel="noreferrer"
+          href="https://facebook.com/{{site.facebook_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#facebook" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">CodePen</span>
+          <span class="label">Facebook</span>
         </a>
       {% endif %}
 
