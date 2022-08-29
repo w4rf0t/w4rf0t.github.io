@@ -34,5 +34,5 @@
 - name: Php
   weight: 4
   
-  - name: Pascal
+- name: Pascal
   weight: 5
