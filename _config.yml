@@ -54,7 +54,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Educacion experiences
+timeline_title: Educations
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://drive.google.com/file/d/1B_idcow5PFIPGCMiRofDx4B-i32JfQzi/view?usp=sharing
