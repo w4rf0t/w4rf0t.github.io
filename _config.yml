@@ -7,29 +7,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Alejandro Iglesias Calvo
+title: Hoang Kim Phu Profile
 # description: This will be meta HTML tag content. This can be ignored.
-description: Trayectoria profesional
+description: Information Assurance Student (3rd)
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Alejandro Iglesias Calvo
+username: w4rf0t
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Ingeniero Junior
+typing_text: Kim Phu
 # email: Your E-Mail address for the email button.
-email: alejandroiglesiascalvo@hotmail.com
+email: hkphu.edu@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: AlejandroIglesiasCalvo
-instagram_username: 
-codepen_username: 
-dev_username: 
-linkedin_username: alejandro-iglesias-calvo-255a29144
+github_username: w4rf0t
+instagram_username: phukim_h
+medium_username: hehe
+facebook_username: w4rf0t
+linkedin_username: hoàng-kim-phú-21a22017a
 twitter_username:
 
 # ABOUT ME SECTION
@@ -38,9 +38,9 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Quien soy
+about_me_title: Who Am I
 # about_me_description: This will be displayed under the title.
-about_me_description: Actualemente trabajo como freelance en el desarrollo de aplicaciones web y móviles. Mientras finalizo mis estudios. Me intereso por el desarrollo de software y la programación. Me gusta aprender nuevas tecnologías y aprender de las personas que me rodean.
+about_me_description: I am a 3rd year student majoring in information security at FPT University. I like coding, basketball and penetration testing. This blog documenting is a record what I have got. Hope it will be useful to you. 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -55,7 +55,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Educacion y expreriencia
+timeline_title: Educacion expreriencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://drive.google.com/file/d/1B_idcow5PFIPGCMiRofDx4B-i32JfQzi/view?usp=sharing
@@ -70,13 +70,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Proyectos en los que he participado
+projects_title: Projects in which I have participated
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: True
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Proyectos de código abierto
+os_projects_title: All of my projects in Github
 
 # CONTACT SECTION
 # show_contact_card:
@@ -86,11 +86,11 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Pueden ponerse en contacto conmigo a través de la direccion de correo alejandroiglesiascalvo@hotmail.com, o mediante el telefono 717719965 
+contact_description: You can contact me through the mail address hkphu.edu@gmail.com , or by phone 0762749148 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: alejandroiglesiascalvo/AlejandroIglesiasCalvo
+repository: w4rf0t/w4rf0t
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -107,7 +107,7 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-      - AlejandroIglesiasCalvo
+      - w4rf0t
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
