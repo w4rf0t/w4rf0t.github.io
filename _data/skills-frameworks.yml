@@ -7,12 +7,12 @@
 
 
 - name: Node
-  weight: 5
+  weight: 3
 
 - name: React
   weight: 2
 
-- name: Spring
+- name: Vue
   weight: 4
 
 - name: Shell
@@ -21,8 +21,8 @@
 - name: Yarm
   weight: 2
 
-- name: Solid
-  weight: 2
-
 - name: Jekyll
   weight: 2
+
+- name: Exploit tools
+  weight: 5
