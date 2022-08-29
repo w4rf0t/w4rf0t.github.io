@@ -31,7 +31,7 @@
 - name: Python
   weight: 4
 
-- name: PHP
+- name: Php
   weight: 4
   
   - name: Pascal
