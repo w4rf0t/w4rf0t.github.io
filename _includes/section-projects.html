@@ -8,7 +8,7 @@
         </div>
         <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
-          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
+          <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
             Demo
           </a>
         {% endif %}
@@ -26,6 +26,12 @@
 
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
+  <p class="subtitle">
+    For more in-depth information about my open source activities, check out my profile
+    <a class="highlight-link" href="https://github.com/w4rf0t" target="_blank" rel="noreferrer">
+      here
+    </a>.
+  </p>
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
   {% else %}
@@ -69,7 +75,7 @@
             </div>
           </div>
           <p class="project-desc">{{repository.description}}</p>
-          {% if repository.homepage != "" and repository.homepage != null %}
+          {% if repository.homepage != "" and repository.homepage != nil %}
             <a class="highlight-link" href="{{repository.homepage}}" target="_blank" rel="noreferrer">
               Demo
             </a>
@@ -89,5 +95,3 @@
     {% endfor %}
   </div>
 {% endif %}
-
-
