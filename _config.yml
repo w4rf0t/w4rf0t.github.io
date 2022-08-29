@@ -62,7 +62,7 @@ cv_download_link: https://drive.google.com/file/d/1B_idcow5PFIPGCMiRofDx4B-i32Jf
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
