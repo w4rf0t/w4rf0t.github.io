@@ -27,7 +27,6 @@ github_username: w4rf0t
 instagram_username: phukim_h
 medium_username: hehe
 facebook_username: w4rf0t
-# facebook: w4rf0t
 linkedin_username: hoàng-kim-phú-21a22017a
 twitter_username:
 
@@ -75,7 +74,7 @@ projects_title: Projects in which I have participated
 # > setting this to false, will omit your public projects on github
 show_os_projects: True
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: All of my projects in Github
+os_projects_title: My projects in Github
 
 # CONTACT SECTION
 # show_contact_card:
@@ -85,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: You can contact me through the mail address hkphu.edu@gmail.com , or by phone 0762749148 
+contact_description: You can contact me through the social medias below 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
@@ -94,7 +93,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: stars
+  sort_by: pushed
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
@@ -114,7 +113,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-186439923-1"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
