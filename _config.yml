@@ -106,6 +106,7 @@ projects:
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
       - w4rf0t
+      - w4rf0t.github.io
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
