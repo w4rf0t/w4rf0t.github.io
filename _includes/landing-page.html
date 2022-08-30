@@ -124,13 +124,14 @@
   </div>
   <section id="section07" class="demo">
   <a href="#middle"><span></span><span></span><span></span></a>
-</section>                  
-</div>
-<script>
-   $(function() {
-      $('a[href*=#]').on('click', function(e) {
-        e.preventDefault();
-        $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  </section>
+  <script>
+     $(function() {
+        $('a[href*=#]').on('click', function(e) {
+          e.preventDefault();
+          $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+        });
       });
-    });
-</script>         
+  </script>           
+</div>
+        
