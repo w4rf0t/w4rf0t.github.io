@@ -1,1 +1,0 @@
-Para regenerar usar: "gulp"
