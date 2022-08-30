@@ -67,7 +67,11 @@
     "detect_on": "canvas",
     "events": {
       "onhover": {
-        "enable": true
+        "enable": false
+      },
+      "overmouse": {
+        "enable": true,
+        "mode": "repulse"
       },
       "onclick": {
         "enable": true,
