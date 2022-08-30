@@ -128,11 +128,14 @@
 	  <a href="#middle"><span></span><span></span><span></span></a>
   </section>
   <script>
-     $(function() {
-        $('a[href*=#]').on('click', function(e) {
-          e.preventDefault();
-          $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 1000, 'linear');
+     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
         });
-      });
+    });
+});
   </script>  			     
         
