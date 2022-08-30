@@ -3,7 +3,7 @@
 
 .demo a {
   position: absolute;
-  bottom: 25%;
+  bottom: 15%;
   left: 50%;
   z-index: 2;
   display: inline-block;
