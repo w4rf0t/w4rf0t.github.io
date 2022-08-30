@@ -31,7 +31,7 @@ var pJS = function(tag_id, params) {
         value: '#fff'
       },
       shape: {
-        type: 'circle',
+        type: 'image',
         stroke: {
           width: 0,
           color: '#ff0000'
