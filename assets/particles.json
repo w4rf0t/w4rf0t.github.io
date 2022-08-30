@@ -1,7 +1,7 @@
 {
   "particles": {
     "number": {
-      "value": 30,
+      "value": 25,
       "density": {
         "enable": true,
         "value_area": 800
@@ -21,8 +21,8 @@
       },
       "image": {
           "src": "https://github.com/w4rf0t/w4rf0t.github.io/blob/main/assets/img/logo.png?raw=true",
-          "width": 100,
-          "height": 100
+          "width": 150,
+          "height": 150
       }
     },
     "opacity": {
